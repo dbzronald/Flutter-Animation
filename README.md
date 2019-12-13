@@ -1,6 +1,8 @@
-# animation
+# Flutter Animation
 
-A new Flutter project.
+Simple Cat sliding up and down animation with flutter.
+
+![Alt Text](https://i.imgur.com/kPvm5cu.gif)
 
 ## Getting Started
 
